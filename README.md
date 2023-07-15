@@ -1,5 +1,5 @@
 # Digital World Solution Online AI Developer Portfolio
-Welcome to my AI Developer portfolio! This repository showcases a collection of projects I have worked on during my tenure at Digital World Solution Online, a leading software house based in Rawalpindi. Our company specializes in providing cutting-edge search marketing solutions, website promotion, online advertising, and search engine optimization techniques to businesses worldwide.
+Welcome to my AI Developer portfolio! This repository showcases a collection of projects I have worked on during my tenure working part-time as an AI developer at Digital World Solution Online, a leading software house based in Rawalpindi. Our company specializes in providing cutting-edge search marketing solutions, website promotion, online advertising, and search engine optimization techniques to businesses worldwide.
 
 About Digital World Solution Online
 Digital World Solution Online offers a comprehensive range of services to meet the diverse needs of our clients. Our expertise spans across various domains, including:
