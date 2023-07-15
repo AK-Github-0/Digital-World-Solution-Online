@@ -1,0 +1,21 @@
+Read and analyze data
+- Use all the tools that you think are required from what we have studied in Python
+- Make an appropriate visualization of the data
+Use class at least once
+Use the function at least once
+Use dictionary at least three times
+Use list comprehensive at least once
+
+
+Using tools from numpy for example*/-+...
+Import method from pandas
+
+Visualisation from matplotlib
+
+
+
+
+
+
+
+
